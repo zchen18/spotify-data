@@ -1,7 +1,7 @@
 ﻿---
 title: Playlist Evaluation and Modelling
 notebook: playlist.ipynb
-nav_include: 3
+nav_include: 2
 ---
 
 ## Contents
