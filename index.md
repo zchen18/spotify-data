@@ -1,7 +1,6 @@
 ---
 title: Final Milestone
 notebook: milestone-report.ipynb
-nav_include: 1
 ---
 
 ## Contents
